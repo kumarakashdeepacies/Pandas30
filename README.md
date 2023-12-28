@@ -1,3 +1,4 @@
 leetcode pandas 30
 
-code solution fro repference
+code solution for reference
+handle the syntax better 
